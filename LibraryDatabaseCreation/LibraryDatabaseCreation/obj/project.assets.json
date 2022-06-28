@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STG1257\\Desktop\\ProjectLibraryInAdo\\LibraryDatabaseCreation\\LibraryDatabaseCreation\\LibraryDatabaseCreation.csproj",
+      "projectUniqueName": "C:\\Users\\STG1257\\Desktop\\projectLibrary.Database\\LibraryDatabaseCreation\\LibraryDatabaseCreation\\LibraryDatabaseCreation.csproj",
       "projectName": "LibraryDatabaseCreation",
-      "projectPath": "C:\\Users\\STG1257\\Desktop\\ProjectLibraryInAdo\\LibraryDatabaseCreation\\LibraryDatabaseCreation\\LibraryDatabaseCreation.csproj",
+      "projectPath": "C:\\Users\\STG1257\\Desktop\\projectLibrary.Database\\LibraryDatabaseCreation\\LibraryDatabaseCreation\\LibraryDatabaseCreation.csproj",
       "packagesPath": "C:\\Users\\STG1257\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STG1257\\Desktop\\ProjectLibraryInAdo\\LibraryDatabaseCreation\\LibraryDatabaseCreation\\obj\\",
+      "outputPath": "C:\\Users\\STG1257\\Desktop\\projectLibrary.Database\\LibraryDatabaseCreation\\LibraryDatabaseCreation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STG1257\\AppData\\Roaming\\NuGet\\NuGet.Config",
