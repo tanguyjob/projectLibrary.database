@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LibraryDatabaseCreation/1.0.0": {
+        "runtime": {
+          "LibraryDatabaseCreation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryDatabaseCreation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

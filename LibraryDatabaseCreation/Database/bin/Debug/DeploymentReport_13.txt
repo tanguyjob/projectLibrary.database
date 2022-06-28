@@ -1,0 +1,40 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Address] (Table)
+       [dbo].[Author] (Table)
+       [dbo].[Book] (Table)
+       [dbo].[BookAuthor] (Table)
+       [dbo].[Borrowing] (Table)
+       [dbo].[Copy] (Table)
+       [dbo].[Genre] (Table)
+       [dbo].[GenreBook] (Table)
+       [dbo].[Language] (Table)
+       [dbo].[Library] (Table)
+       [dbo].[Profile] (Table)
+       [dbo].[Subscription] (Table)
+       [dbo].[User] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Borrowing] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[User] (Contrainte par défaut)
+       [dbo].[Trigger_Instead_Delete] (Déclencheur)
+       [dbo].[AddAddress] (Procédure)
+       [dbo].[AddAuthor] (Procédure)
+       [dbo].[AddBook] (Procédure)
+       [dbo].[AddUser] (Procédure)
+       [dbo].[SelectAllBookAuthor] (Procédure)
+       [dbo].[SelectAllInfoBorrowingByUserId] (Procédure)
+       [dbo].[SelectAllUserById] (Procédure)
+       [dbo].[SelectBookAuthorById] (Procédure)
+
+** Actions de support
